@@ -17,6 +17,7 @@ header {
 /*Header superior*/
 .header_superior{
     max-width: 1200px;
+    margin: auto;
 }
 .header_superior {
     display: flex;
